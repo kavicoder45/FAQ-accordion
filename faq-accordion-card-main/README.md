@@ -1,4 +1,2 @@
-collapsed - class
-befor adding collaspe class
-show - to show body of the text
-collapsing for transition:
+**Live Preview**
+https://656c2da54cdb7d5584eec402--melodic-rabanadas-ab0829.netlify.app/
